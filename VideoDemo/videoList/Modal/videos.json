@@ -1,0 +1,32 @@
+{
+    "videosList" : [
+        {
+            "videoID" : 1,
+            "videoName" : "video one",
+            "videoURL" : "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+            "videoThumbnail":"Thumbnail1",
+            "videoDesription":"videoDesription1 videoDesription1 videoDesription1"
+        },
+        {
+            "videoID" : 2,
+            "videoName" : "video two",
+            "videoURL" : "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+            "videoThumbnail":"Thumbnail2",
+            "videoDesription":"videoDesription2 videoDesription2 videoDesription2"
+        },
+        {
+            "videoID" : 3,
+            "videoName" : "video three",
+            "videoURL" : "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8",
+            "videoThumbnail":"Thumbnail3",
+            "videoDesription":"videoDesription3 videoDesription3 videoDesription3"
+        },
+        {
+            "videoID" : 4,
+            "videoName" : "video four",
+            "videoURL" : "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
+            "videoThumbnail":"Thumbnail4",
+            "videoDesription":"videoDesription4 videoDesription4 videoDesription4"
+        }
+    ]
+}
